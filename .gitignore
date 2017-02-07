@@ -91,12 +91,8 @@ ENV/
 # Rope project settings
 .ropeproject
 
-.gitignore
 .idea/
 db.sqlite3
 impresario/__pycache__/
 impresario/local_settings.py
-impresario/settings.py
-index.html
-manage.py
-webapp/
+*/migrations/*
