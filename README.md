@@ -1,0 +1,2 @@
+# impresario - dashboard for OpenSkakun
+
