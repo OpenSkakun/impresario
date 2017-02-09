@@ -97,4 +97,4 @@ impresario/__pycache__/
 impresario/local_settings.py
 */migrations/*
 
-statis/*
+static/
