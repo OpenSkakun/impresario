@@ -58,3 +58,11 @@ span.double {
     font-size: 2em;
     color: ivory;
 }
+
+i.blue {
+    color: #009BDB;
+    /* padding: 10px 16px; */
+    font-size: 1em;
+    /* line-height: 1.33; */
+    /* border-radius: 6px; */
+}
